@@ -6,7 +6,7 @@
 * [Profitable App Profiles for the App Store and Google Play Markets](https://github.com/meerkatR/data-science-projects/blob/master/profitable_apps.ipynb)
 * [Exploring Hacker News Posts](https://github.com/meerkatR/data-science-projects/blob/master/hacker_news_posts.ipynb)
 * [Exploring Ebay Car Sales Data](https://github.com/meerkatR/data-science-projects/blob/master/ebay_car_sales.ipynb)
-* [Clean and Analyze Employee Exit Surveys]()
+* [Clean and Analyze Employee Exit Surveys](https://github.com/meerkatR/data-science-projects/blob/master/employee_exit_survey.ipynb)
 ### Data Visualization
 * Library/module used: matplotlib, pandas
 * [Visualizing Earnings Based On College Majors](https://github.com/meerkatR/data-science-projects/blob/master/college_major_earnings.ipynb)
